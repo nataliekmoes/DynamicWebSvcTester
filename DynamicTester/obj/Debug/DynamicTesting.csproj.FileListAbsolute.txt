@@ -1,0 +1,14 @@
+C:\Users\Master\OneDrive\School\CSE_445\Project 3\DynamicTesting\obj\Debug\DynamicTesting.csproj.AssemblyReference.cache
+C:\Users\Master\OneDrive\School\CSE_445\Project 3\DynamicTesting\obj\Debug\DynamicTesting.csproj.CoreCompileInputs.cache
+C:\Users\Master\OneDrive\School\CSE_445\Project 3\DynamicTesting\bin\DynamicTesting.dll.config
+C:\Users\Master\OneDrive\School\CSE_445\Project 3\DynamicTesting\bin\DynamicTesting.dll
+C:\Users\Master\OneDrive\School\CSE_445\Project 3\DynamicTesting\bin\DynamicTesting.pdb
+C:\Users\Master\OneDrive\School\CSE_445\Project 3\DynamicTesting\obj\Debug\DynamicTesting.dll
+C:\Users\Master\OneDrive\School\CSE_445\Project 3\DynamicTesting\obj\Debug\DynamicTesting.pdb
+Z:\page4\bin\DynamicTesting.dll.config
+Z:\page4\bin\DynamicTesting.dll
+Z:\page4\bin\DynamicTesting.pdb
+Z:\page4\obj\Debug\DynamicTesting.csproj.AssemblyReference.cache
+Z:\page4\obj\Debug\DynamicTesting.csproj.CoreCompileInputs.cache
+Z:\page4\obj\Debug\DynamicTesting.dll
+Z:\page4\obj\Debug\DynamicTesting.pdb
