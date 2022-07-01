@@ -1,6 +1,6 @@
 # DynamicWebSvcTester_SVC
 
-WCF (Windows Communication Foundation) Web Service that provides operations for testing WSDL and Restful web services.
+WCF (Windows Communication Foundation) Web Service that provides operations for testing WSDL and RESTful web services.
 
 
 ## API Reference
