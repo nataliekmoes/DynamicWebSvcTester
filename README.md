@@ -5,7 +5,9 @@ WCF (Windows Communication Foundation) Web Service that provides operations for 
 
 ## API Reference
 
-#### `ServiceResults TestOperationGivenInput(string url, string opName, object[] input)`
+```C#
+ServiceResults TestOperationGivenInput(string url, string opName, object[] input)
+```
 
 Tests an operation of a service passing the argument input as the input to the operation call. 
 
@@ -16,7 +18,9 @@ Tests an operation of a service passing the argument input as the input to the o
 
 <br/>
 
-#### `Dictionary<string, ServiceResults> TestServices(string[] urls)`
+```C#
+Dictionary<string, ServiceResults> TestServices(string[] urls)
+```
 
 Tests a number of services to verify whether they can be accessed and generates input that will be of the correct type for value-type parameters, but may not be contextually appropriate for those parameters.  Thus, this operation will potentially get successful output for operations offered by a service, but is not garaunteed to do so.  
 
@@ -25,7 +29,9 @@ Tests a number of services to verify whether they can be accessed and generates 
 
 <br/>
 
-#### `string TestRESTfulService(string baseUrl, string opName, string[] paramName, string[] input)`
+```C#
+string TestRESTfulService(string baseUrl, string opName, string[] paramName, string[] input)
+```
 
 Invokes a given operation from the RESTful service at the given parameter names and corresponding input values returns the operation's output.
 
